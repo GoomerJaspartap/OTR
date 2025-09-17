@@ -2,8 +2,8 @@
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
-  basePath: process.env.NODE_ENV === 'production' ? '/OTR-WEBSITE' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/OTR-WEBSITE' : '',
+  basePath: '',
+  assetPrefix: '',
   images: {
     unoptimized: true,
     remotePatterns: [
