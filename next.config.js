@@ -1,20 +1,16 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Enable static optimization
+  output: 'standalone',
+  
+  // Image optimization
   images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'instagram.com',
-      },
-      {
-        protocol: 'https',
-        hostname: 'tiktok.com',
-      },
-      {
-        protocol: 'https',
-        hostname: 'cdn.instagram.com',
-      },
-    ],
+    domains: ['instagram.com', 'tiktok.com', 'cdn.instagram.com'],
+  },
+  
+  // Enable experimental features
+  experimental: {
+    optimizePackageImports: ['lucide-react'],
   },
 }
 
