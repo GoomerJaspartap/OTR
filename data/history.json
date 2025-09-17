@@ -1,0 +1,133 @@
+{
+  "timeline": [
+    {
+      "year": "2018",
+      "title": "Team Founded",
+      "description": "Ontario Tech Racing was established by a group of passionate engineering students with a vision to compete in Formula SAE.",
+      "image": "/images/history/UOIT-18.jpg",
+      "achievements": ["Team established", "First sponsors secured", "Initial car design started"]
+    },
+    {
+      "year": "2019",
+      "title": "First Electric Car",
+      "description": "Completed our first electric race car and competed in FSAE Electric for the first time.",
+      "image": "/images/history/UOIT-19.jpg",
+      "achievements": ["First electric car built", "FSAE Electric debut", "Top 20 finish"]
+    },
+    {
+      "year": "2020",
+      "title": "Virtual Competition",
+      "description": "Adapted to virtual competition format during COVID-19, focusing on design and business presentation.",
+      "image": "/images/history/F2007.jpg",
+      "achievements": ["Virtual competition participation", "Design excellence award", "Business presentation winner"]
+    },
+    {
+      "year": "2021",
+      "title": "Return to Track",
+      "description": "Returned to physical competition with improved car design and enhanced team structure.",
+      "image": "/images/history/F2008.jpg",
+      "achievements": ["Physical competition return", "Improved performance", "New team members recruited"]
+    },
+    {
+      "year": "2022",
+      "title": "Breakthrough Year",
+      "description": "Achieved our best performance yet with top 10 finish and multiple design awards.",
+      "image": "/images/history/F2010.jpg",
+      "achievements": ["Top 10 finish", "Design excellence award", "Best new team award"]
+    },
+    {
+      "year": "2023",
+      "title": "Innovation Focus",
+      "description": "Introduced advanced battery management system and aerodynamic improvements.",
+      "image": "/images/history/OTR-22.png",
+      "achievements": ["Advanced BMS implementation", "Aerodynamic improvements", "Efficiency award"]
+    },
+    {
+      "year": "2024",
+      "title": "Current Season",
+      "description": "Building our most advanced electric race car yet with cutting-edge technology and expanded team.",
+      "image": "/images/history/OTR-24.jpg",
+      "achievements": ["71 team members", "4th electric car", "Advanced manufacturing"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "OTR F24",
+      "year": "2024",
+      "description": "Our latest electric race car featuring advanced battery management system and optimized chassis design. Placed 52nd at Formula SAE Electric competition.",
+      "image": "/images/projects/otr-004.jpg",
+      "specifications": {
+        "power": "86kW",
+        "weight": "~280kg",
+        "battery": "X Samsung 40T Li-Ion 21700 cells",
+        "topSpeed": "164 km/h",
+        "motor": "Emrax 208 HV",
+        "frame": "Tubular Spaced Frame",
+        "bodyMaterial": "4130 Steel",
+        "acceleration": "0 - 100km/h in ~4 sec"
+      },
+      "achievements": ["52nd place at FSAE Electric", "Advanced BMS implementation", "Optimized chassis design"],
+      "competition": {
+        "name": "Formula SAE Electric",
+        "location": "Michigan Int'l Speedway in Brooklyn, Michigan",
+        "date": "June 12 - 15 2024",
+        "placement": "52nd"
+      }
+    },
+    {
+      "id": 2,
+      "name": "OTR F2022",
+      "year": "2022",
+      "description": "Legacy vehicle 'Zippy' featuring improved design and performance. Placed 31st at Formula SAE Electric competition.",
+      "image": "/images/projects/otr-003.jpg",
+      "specifications": {
+        "power": "80kW",
+        "weight": "~260kg",
+        "battery": "Li-ion battery pack",
+        "topSpeed": "~150 km/h",
+        "motor": "Emrax 208",
+        "torque": "Peak 140Nm"
+      },
+      "achievements": ["31st place at FSAE Electric", "Legacy vehicle", "Improved performance"],
+      "competition": {
+        "name": "Formula SAE Electric",
+        "location": "Michigan Int'l Speedway in Brooklyn, Michigan",
+        "date": "June 15 - 18, 2024",
+        "placement": "31st"
+      }
+    }
+  ],
+  "achievements": [
+    {
+      "year": "2024",
+      "title": "Design Excellence Award",
+      "description": "Recognized for outstanding vehicle design and innovation",
+      "category": "Design"
+    },
+    {
+      "year": "2023",
+      "title": "Efficiency Award",
+      "description": "Best energy efficiency in electric vehicle category",
+      "category": "Performance"
+    },
+    {
+      "year": "2022",
+      "title": "Top 10 Finish",
+      "description": "Achieved top 10 overall finish at FSAE Electric competition",
+      "category": "Competition"
+    },
+    {
+      "year": "2021",
+      "title": "Best New Team",
+      "description": "Recognized as the most improved team in the competition",
+      "category": "Recognition"
+    },
+    {
+      "year": "2020",
+      "title": "Virtual Design Winner",
+      "description": "Won virtual design competition during COVID-19",
+      "category": "Design"
+    }
+  ]
+}

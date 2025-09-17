@@ -1,0 +1,315 @@
+{
+  "departments": [
+    {
+      "name": "Business",
+      "members": [
+        {
+          "id": 1,
+          "name": "Maya Edison",
+          "title": "Business Lead",
+          "image": "/images/team/Maya-Edision.png",
+          "linkedin": "https://www.linkedin.com/in/maya-edison",
+          "department": "Business"
+        },
+        {
+          "id": 2,
+          "name": "Mann Shah",
+          "title": "Logistics Lead",
+          "image": "/images/team/Mann Shah.png",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Business"
+        },
+        {
+          "id": 3,
+          "name": "Esha Lodhi",
+          "title": "Marketing Lead",
+          "image": "/images/team/Esha Lodhi.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Business"
+        },
+        {
+          "id": 4,
+          "name": "Dave Paquette",
+          "title": "Finance Lead",
+          "image": "/images/team/Dave Paquette.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Business"
+        },
+        {
+          "id": 5,
+          "name": "Adam Bremner",
+          "title": "Sponsorship Lead",
+          "image": "/images/team/Adam Bremnar 3.png",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Business"
+        },
+        {
+          "id": 6,
+          "name": "Laura Costantinipare",
+          "title": "Marketing & Sponsorship Member",
+          "image": "/images/team/Laura cost.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Business"
+        }
+      ]
+    },
+    {
+      "name": "Analysis",
+      "members": [
+        {
+          "id": 7,
+          "name": "Colton Ho",
+          "title": "Analysis Lead",
+          "image": "/images/team/Colton.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Analysis"
+        },
+        {
+          "id": 8,
+          "name": "Deep Mistry",
+          "title": "Member",
+          "image": "/images/team/Deep.jpg",
+          "linkedin": "https://www.linkedin.com/in/deeprmistry/",
+          "department": "Analysis"
+        },
+        {
+          "id": 9,
+          "name": "Agsshayan Thiruthaniesan",
+          "title": "Member",
+          "image": "/images/team/Agsshayan Thiruthaniesan.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Analysis"
+        },
+        {
+          "id": 10,
+          "name": "Harsha Anugu",
+          "title": "Member",
+          "image": "/images/team/Harshaa anugu.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Analysis"
+        }
+      ]
+    },
+    {
+      "name": "Composites",
+      "members": [
+        {
+          "id": 11,
+          "name": "James Lin",
+          "title": "Member",
+          "image": "/images/team/James Lin2.png",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Composites"
+        },
+        {
+          "id": 12,
+          "name": "Zach Pursley",
+          "title": "Member",
+          "image": "/images/team/Zachary pursley.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Composites"
+        }
+      ]
+    },
+    {
+      "name": "Drivetrain & Braking",
+      "members": [
+        {
+          "id": 13,
+          "name": "William Chalk",
+          "title": "Drivetrain & Braking Lead",
+          "image": "/images/team/William Chalk 3.png",
+          "linkedin": "http://www.linkedin.com/in/william-c-17514b125",
+          "department": "Drivetrain & Braking"
+        },
+        {
+          "id": 14,
+          "name": "Deep Mistry",
+          "title": "Drivetrain & Braking Lead",
+          "image": "/images/team/Deep.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Drivetrain & Braking"
+        },
+        {
+          "id": 15,
+          "name": "Nahl Farhan",
+          "title": "Member",
+          "image": "/images/team/Nahl Farhan.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Drivetrain & Braking"
+        }
+      ]
+    },
+    {
+      "name": "Embedded Systems",
+      "members": [
+        {
+          "id": 16,
+          "name": "Jaspartap Goomer",
+          "title": "Embedded Systems Lead",
+          "image": "/images/team/Jaspartap2.png",
+          "linkedin": "https://www.linkedin.com/in/jaspartap-goomer-883738275",
+          "department": "Embedded Systems"
+        },
+        {
+          "id": 17,
+          "name": "Connor Godden",
+          "title": "Member",
+          "image": "/images/team/Connor Godden.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Embedded Systems"
+        }
+      ]
+    },
+    {
+      "name": "Hardware & Electronics",
+      "members": [
+        {
+          "id": 18,
+          "name": "Alvin Huynh",
+          "title": "Tech Lead",
+          "image": "/images/team/Alvin 2.png",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Hardware & Electronics"
+        },
+        {
+          "id": 19,
+          "name": "Aysha Mohmand",
+          "title": "Management Lead",
+          "image": "/images/team/Aysha2.png",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Hardware & Electronics"
+        }
+      ]
+    },
+    {
+      "name": "HV Systems",
+      "members": [
+        {
+          "id": 20,
+          "name": "Ethan Richardson",
+          "title": "HV Systems Lead",
+          "image": "/images/team/Ethan2.png",
+          "linkedin": "www.linkedin.com/in/ethan-richardson-0861031ba",
+          "department": "HV Systems"
+        },
+        {
+          "id": 21,
+          "name": "Luz Yanguez Franco",
+          "title": "Member",
+          "image": "/images/team/Luz.jpg",
+          "linkedin": "https://www.linkedin.com/in/luz-yanguez/",
+          "department": "HV Systems"
+        },
+        {
+          "id": 22,
+          "name": "William Locke",
+          "title": "Member",
+          "image": "/images/team/william.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "HV Systems"
+        },
+        {
+          "id": 23,
+          "name": "Sarah Lamanna",
+          "title": "Member",
+          "image": "/images/team/Sarah Lamanna 3.png",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "HV Systems"
+        }
+      ]
+    },
+    {
+      "name": "Manufacturing",
+      "members": [
+        {
+          "id": 24,
+          "name": "Maria Peregoudov",
+          "title": "Manufacturing Lead",
+          "image": "/images/team/Maria peregoudov.jpg",
+          "linkedin": "https://www.linkedin.com/in/maria-peregoudov/",
+          "department": "Manufacturing"
+        },
+        {
+          "id": 25,
+          "name": "Tomas Macleod",
+          "title": "Member",
+          "image": "/images/team/Tomas Macleod.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Manufacturing"
+        },
+        {
+          "id": 26,
+          "name": "Ethan Shepperd",
+          "title": "Member",
+          "image": "/images/team/Ethan Sheppard.jpg",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Manufacturing"
+        }
+      ]
+    },
+    {
+      "name": "Software",
+      "members": [
+        {
+          "id": 27,
+          "name": "Manal Afzal",
+          "title": "Software Lead",
+          "image": "/images/team/Manal afzal.jpg",
+          "linkedin": "https://www.linkedin.com/in/manalafzal/",
+          "department": "Software"
+        }
+      ]
+    },
+    {
+      "name": "Suspension",
+      "members": [
+        {
+          "id": 28,
+          "name": "Mihai Marian",
+          "title": "Suspension Lead",
+          "image": "/images/team/Mihai.jpg",
+          "linkedin": "https://www.linkedin.com/in/mihaimarian/",
+          "department": "Suspension"
+        },
+        {
+          "id": 29,
+          "name": "Omar Ibrahim",
+          "title": "Suspension Co-Lead",
+          "image": "/images/team/Omar2.png",
+          "linkedin": "https://www.linkedin.com/in/omarribrahim/",
+          "department": "Suspension"
+        },
+        {
+          "id": 30,
+          "name": "Grant Bourne",
+          "title": "Member",
+          "image": "/images/team/Grant Bourne.jpg",
+          "linkedin": "https://www.linkedin.com/in/grant-bourne-47384526b/",
+          "department": "Suspension"
+        },
+        {
+          "id": 31,
+          "name": "Jake Desaillier",
+          "title": "Member",
+          "image": "/images/team/Jake Desailler 2.png",
+          "linkedin": "http://www.linkedin.com/in/jake-desaillier-a1556a267",
+          "department": "Suspension"
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Dynamics",
+      "members": [
+        {
+          "id": 32,
+          "name": "Omar Ibrahim",
+          "title": "Vehicle Dynamics Lead",
+          "image": "/images/team/Omar2.png",
+          "linkedin": "https://www.linkedin.com/company/ontariotechracing",
+          "department": "Vehicle Dynamics"
+        }
+      ]
+    }
+  ]
+}

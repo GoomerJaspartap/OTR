@@ -1,0 +1,60 @@
+# Image Placeholders
+
+This directory should contain the following images:
+
+## Team Images
+- team/team-photo.jpg (team group photo)
+- team/team-hero.jpg (hero background)
+- team/john-smith.jpg (individual member photos)
+- team/sarah-johnson.jpg
+- team/mike-chen.jpg
+- team/emily-davis.jpg
+- team/alex-rodriguez.jpg
+- team/lisa-wang.jpg
+
+## Car/Project Images
+- projects/otr-001.jpg (first car)
+- projects/otr-002.jpg (second car)
+- projects/otr-003.jpg (third car)
+- projects/otr-004.jpg (current car)
+- showcase/car-build-1.jpg
+- showcase/testing-1.jpg
+- showcase/competition-1.jpg
+- showcase/team-work-1.jpg
+- showcase/workshop-1.jpg
+- showcase/design-1.jpg
+
+## Sponsor Logos
+- sponsors/gm-logo.png
+- sponsors/ford-logo.png
+- sponsors/tesla-logo.png
+- sponsors/bosch-logo.png
+- sponsors/continental-logo.png
+- sponsors/autodesk-logo.png
+- sponsors/solidworks-logo.png
+- sponsors/ot-logo.png
+
+## Social Media
+- social/instagram-post-1.jpg
+- social/instagram-post-2.jpg
+- social/tiktok-video-1.jpg
+- social/tiktok-video-2.jpg
+
+## History
+- history/2018-founding.jpg
+- history/2019-first-car.jpg
+- history/2020-virtual.jpg
+- history/2021-return.jpg
+- history/2022-breakthrough.jpg
+- history/2023-innovation.jpg
+- history/2024-current.jpg
+- history/history-hero.jpg
+
+## Other
+- join/join-hero.jpg
+- sponsors/sponsors-hero.jpg
+- video-poster.jpg (for video background)
+
+## Video
+- videos/otr-hero-video.mp4 (main hero video)
+- videos/otr-hero-video.webm (webm version for better browser support)

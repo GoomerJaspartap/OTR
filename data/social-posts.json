@@ -1,0 +1,34 @@
+{
+  "instagram": [
+    {
+      "id": 1,
+      "url": "https://www.instagram.com/p/ABC123/",
+      "embedUrl": "https://www.instagram.com/p/ABC123/embed/",
+      "caption": "Our latest electric race car in action! 🏎️⚡ #FSAE #ElectricRacing #OntarioTechRacing",
+      "thumbnail": "/images/social/instagram-post-1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://www.instagram.com/p/DEF456/",
+      "embedUrl": "https://www.instagram.com/p/DEF456/embed/",
+      "caption": "Team working hard on the new chassis design 💪 #Engineering #TeamWork #FSAE",
+      "thumbnail": "/images/social/instagram-post-2.jpg"
+    }
+  ],
+  "tiktok": [
+    {
+      "id": 1,
+      "url": "https://www.tiktok.com/@ontariotechracing/video/1234567890",
+      "embedUrl": "https://www.tiktok.com/embed/1234567890",
+      "caption": "Behind the scenes of our electric race car build! ⚡🏁",
+      "thumbnail": "/images/social/tiktok-video-1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://www.tiktok.com/@ontariotechracing/video/0987654321",
+      "embedUrl": "https://www.tiktok.com/embed/0987654321",
+      "caption": "Testing our new battery pack 🔋⚡ #ElectricRacing #FSAE",
+      "thumbnail": "/images/social/tiktok-video-2.jpg"
+    }
+  ]
+}

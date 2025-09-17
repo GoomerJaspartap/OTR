@@ -1,0 +1,29 @@
+{
+  "stats": [
+    {
+      "id": 1,
+      "label": "Years of Experience",
+      "value": 6,
+      "icon": "calendar"
+    },
+    {
+      "id": 2,
+      "label": "Electric Cars Built",
+      "value": 4,
+      "icon": "car"
+    },
+    {
+      "id": 3,
+      "label": "Departments",
+      "value": 13,
+      "icon": "users"
+    },
+    {
+      "id": 4,
+      "label": "Skilled Members",
+      "value": 71,
+      "icon": "user-check",
+      "autoUpdate": true
+    }
+  ]
+}

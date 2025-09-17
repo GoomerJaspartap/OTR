@@ -1,0 +1,243 @@
+{
+  "tiers": [
+    {
+      "name": "Diamond Sponsors",
+      "level": 1,
+      "sponsors": [
+        {
+          "id": 1,
+          "name": "Ontario Tech University",
+          "logo": "/images/sponsors/otu-logo.png",
+          "website": "https://ontariotechu.ca/",
+          "description": "Diamond Sponsor"
+        },
+        {
+          "id": 2,
+          "name": "ACE",
+          "logo": "/images/sponsors/ACE_logo.png",
+          "website": "https://ontariotechu.ca/about/campus-buildings/north-oshawa/ace.php",
+          "description": "Diamond Sponsor"
+        }
+      ]
+    },
+    {
+      "name": "Platinum Sponsors",
+      "level": 2,
+      "sponsors": [
+        {
+          "id": 3,
+          "name": "Multimatic",
+          "logo": "/images/sponsors/multimatic_Logo.PNG",
+          "website": "https://www.multimatic.com/",
+          "description": "Platinum Sponsor"
+        },
+        {
+          "id": 4,
+          "name": "Source PMM",
+          "logo": "/images/sponsors/source_pmm.png",
+          "website": "https://www.sourcepmm.com/",
+          "description": "Platinum Sponsor"
+        }
+      ]
+    },
+    {
+      "name": "Gold Sponsors",
+      "level": 3,
+      "sponsors": [
+        {
+          "id": 5,
+          "name": "Batemo",
+          "logo": "/images/sponsors/batemo_Logo.png",
+          "website": "https://www.batemo.com/",
+          "description": "Gold Sponsor"
+        },
+        {
+          "id": 6,
+          "name": "Cadence",
+          "logo": "/images/sponsors/cadence_Logo.png",
+          "website": "https://www.cadence.com/en_US/home.html",
+          "description": "Gold Sponsor"
+        },
+        {
+          "id": 7,
+          "name": "Lemo",
+          "logo": "/images/sponsors/lemo_Logo.png",
+          "website": "https://www.lemo.com/en",
+          "description": "Gold Sponsor"
+        },
+        {
+          "id": 8,
+          "name": "Michigan Scientific Corp",
+          "logo": "/images/sponsors/Michiganwhite.png",
+          "website": "https://www.michsci.com/",
+          "description": "Gold Sponsor"
+        },
+        {
+          "id": 9,
+          "name": "ESAB",
+          "logo": "/images/sponsors/esab.png",
+          "website": "https://esab.com/ca/nam_en/",
+          "description": "Gold Sponsor"
+        },
+        {
+          "id": 10,
+          "name": "Mach 2 Waterjet Cutting Services",
+          "logo": "/images/sponsors/Mach2_Logo.png",
+          "website": "https://www.mach2waterjet.ca/",
+          "description": "Gold Sponsor"
+        }
+      ]
+    },
+    {
+      "name": "Silver Sponsors",
+      "level": 4,
+      "sponsors": [
+        {
+          "id": 11,
+          "name": "VI-Grade",
+          "logo": "/images/sponsors/vi-grade_Logo.png",
+          "website": "https://www.vi-grade.com/",
+          "description": "Silver Sponsor"
+        },
+        {
+          "id": 12,
+          "name": "Sunstone",
+          "logo": "/images/sponsors/Sunstone_Logo.png",
+          "website": "https://www.sunstonewelders.com/",
+          "description": "Silver Sponsor"
+        },
+        {
+          "id": 13,
+          "name": "Gene Haas Foundation",
+          "logo": "/images/sponsors/Genehas.png",
+          "website": "https://www.ghaasfoundation.org",
+          "description": "Silver Sponsor"
+        },
+        {
+          "id": 14,
+          "name": "Tasking",
+          "logo": "/images/sponsors/tasking_Logo.png",
+          "website": "https://www.tasking.com/",
+          "description": "Silver Sponsor"
+        },
+        {
+          "id": 15,
+          "name": "Swagelok",
+          "logo": "/images/sponsors/swagelok_Logo.png",
+          "website": "https://www.swagelok.com/en",
+          "description": "Silver Sponsor"
+        },
+        {
+          "id": 16,
+          "name": "Tailscale",
+          "logo": "/images/sponsors/tailscale-logo.png",
+          "website": "https://tailscale.com/",
+          "description": "Silver Sponsor"
+        }
+      ]
+    },
+    {
+      "name": "Bronze Sponsors",
+      "level": 5,
+      "sponsors": [
+        {
+          "id": 17,
+          "name": "MTB Transit Solutions",
+          "logo": "/images/sponsors/MTB_Transit_Solutions_Logo.png",
+          "website": "https://mtbtransitsolutions.com/",
+          "description": "Bronze Sponsor"
+        },
+        {
+          "id": 18,
+          "name": "Kvaser",
+          "logo": "/images/sponsors/kvaser_Logo.png",
+          "website": "https://kvaser.com/",
+          "description": "Bronze Sponsor"
+        },
+        {
+          "id": 19,
+          "name": "Rapid Harness",
+          "logo": "/images/sponsors/rapidHarness_Logo.png",
+          "website": "https://rapidharness.com/",
+          "description": "Bronze Sponsor"
+        },
+        {
+          "id": 20,
+          "name": "FibreGlass Unlimited",
+          "logo": "/images/sponsors/fiberglass_Unlimited_Logo.png",
+          "website": "https://www.fiberglassunlimited.ca/",
+          "description": "Bronze Sponsor"
+        },
+        {
+          "id": 21,
+          "name": "PCBLibraries",
+          "logo": "/images/sponsors/PCB_Libraries_Logo.png",
+          "website": "https://www.pcblibraries.com/",
+          "description": "Bronze Sponsor"
+        },
+        {
+          "id": 22,
+          "name": "Bender",
+          "logo": "/images/sponsors/bender_Logo.png",
+          "website": "https://www.bender.de/en/",
+          "description": "Bronze Sponsor"
+        },
+        {
+          "id": 23,
+          "name": "Marple",
+          "logo": "/images/sponsors/marple_Logo.png",
+          "website": "https://www.marpledata.com/",
+          "description": "Bronze Sponsor"
+        },
+        {
+          "id": 24,
+          "name": "Guyaki - Yerba Mate",
+          "logo": "/images/sponsors/guyaki_Logo.png",
+          "website": "https://guayaki.com/",
+          "description": "Bronze Sponsor"
+        },
+        {
+          "id": 25,
+          "name": "Altair",
+          "logo": "/images/sponsors/altair_logo.png",
+          "website": "https://altair.com/",
+          "description": "Bronze Sponsor"
+        },
+        {
+          "id": 26,
+          "name": "DANA TM4",
+          "logo": "/images/sponsors/dana.png",
+          "website": "https://www.danatm4.com/",
+          "description": "Bronze Sponsor"
+        },
+        {
+          "id": 27,
+          "name": "Ontario Tech Steer",
+          "logo": "/images/sponsors/steer_group.png",
+          "website": "https://engineering.ontariotechu.ca/steer/index.php",
+          "description": "Bronze Sponsor"
+        }
+      ]
+    },
+    {
+      "name": "General Sponsors",
+      "level": 6,
+      "sponsors": [
+        {
+          "id": 28,
+          "name": "United Eastern Central Ontario Welders association",
+          "logo": "/images/sponsors/united401_Logo.png",
+          "website": "https://www.ualocal401.ca/",
+          "description": "General Sponsor"
+        },
+        {
+          "id": 29,
+          "name": "Digikey",
+          "logo": "/images/sponsors/digikey.png",
+          "website": "https://www.digikey.ca/",
+          "description": "General Sponsor"
+        }
+      ]
+    }
+  ]
+}
